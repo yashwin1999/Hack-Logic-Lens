@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.68c2510f.css",
-    "main.js": "/static/js/main.e78b686b.js",
-    "index.html": "/index.html",
-    "main.68c2510f.css.map": "/static/css/main.68c2510f.css.map",
-    "main.e78b686b.js.map": "/static/js/main.e78b686b.js.map"
+    "main.css": "/Hack-Logic-Lens/static/css/main.68c2510f.css",
+    "main.js": "/Hack-Logic-Lens/static/js/main.e78b686b.js",
+    "index.html": "/Hack-Logic-Lens/index.html",
+    "main.68c2510f.css.map": "/Hack-Logic-Lens/static/css/main.68c2510f.css.map",
+    "main.e78b686b.js.map": "/Hack-Logic-Lens/static/js/main.e78b686b.js.map"
   },
   "entrypoints": [
     "static/css/main.68c2510f.css",
