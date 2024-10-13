@@ -1,6 +1,7 @@
 {
   "name": "sorting-visualizer",
   "version": "0.1.0",
+  "homepage": "http://yashwin1999.github.io/Hack-Logic-Lens",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
