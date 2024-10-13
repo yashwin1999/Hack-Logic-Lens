@@ -1,6 +1,7 @@
 {
   "name": "sorting-visualizer",
   "version": "0.1.0",
+  "homepage": "https://yashwin1999.github.io/Hack-Logic-Lens",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -16,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
+    "predeploy" : "npm install && npm audit fix --force && npm run build",
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
